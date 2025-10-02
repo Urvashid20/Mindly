@@ -9,7 +9,6 @@ Everything you need to be more productive and to fix your physical & mental heal
 - [Technologies Used](#technologies-used)
 - [Pre-requisites](#pre-requisites)
 - [Installation](#installation)
-- [Contributing](#contributing)
 
 ## Introduction
 
