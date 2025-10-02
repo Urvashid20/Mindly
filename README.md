@@ -1,4 +1,4 @@
-# Mindly ♑️
+# Mindly(zen-zone) ♑️
 
 Everything you need to be more productive and to fix your physical & mental health.
 
